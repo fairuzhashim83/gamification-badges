@@ -1,16 +1,13 @@
 <!-- <!-- # gamification-badges -->
 # 🏢 Designing Meaningful User Engagement Badges 
 A mid-sized online community platform has rolled out a feature for users to post, reply to threads, give away items, recommend places, and organize local events. 
-To increase retention and recognize positive participation, the product team is exploring a badge system that rewards consistent, meaningful activity (e.g. "Top Contributor", "Helpful Neighbor", "Event Organizer"). However, they want the badge logic to be **meaningful** and **balanced**
-
-They’ve asked the data team to analyze 20,000 users’ engagement behavior — captured as weekly averages over the past 4, 6, 8, and 12 weeks — and recommend criteria for earning these badges. 
+To increase retention and recognize positive participation, the product team is exploring a badge system that rewards consistent, meaningful activity. However, they want the badge logic to be **meaningful** and **balanced** (i.e not too easy/difficult to attain)
 
 
 ## 📌 Objectives
+To provide data-driven insights and recommendations on the criteria to earn these badges. 
 
-- Understand user behavior over different timeframes (4, 6, 8, 12 weeks)
-- Identify stable and differentiating engagement metrics
-- Recommend fair, data-driven badge thresholds
+## 🏅 Proposed Badges and Criteria
 
 | **Badge Name**              | **Description**                                                               | **Metric(s) Used**                           | **Threshold Template**                      |
 | --------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
