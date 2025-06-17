@@ -11,11 +11,11 @@ To provide data-driven insights and recommendations on the criteria to earn thes
 
 | **Badge Name**              | **Description**                                                               | **Metric(s) Used**                           | **Threshold Template**                      |
 | --------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
-| **🎉 Event Planner**        | Recognizes users who organize well-attended community events                  | `events_created`, `event_participants` | ≥ X events with ≥ Y participants in Z weeks |
-| **💬 Conversation Starter** | For users who spark discussions that receive replies                          | `posts_created`, `replies_received`    | ≥ X posts with ≥ Y replies in Z weeks       |
-| **🎁 Philanthropist**       | Rewards those who regularly gift or share items via the marketplace           | `items_gifted`                            | ≥ X items gifted in Z weeks                 |
-| **🤝 Helping Hand**         | For users frequently thanked by others — a sign of helpfulness and positivity | `thankyous_received`                      | ≥ X thank-you messages received in Z weeks  |
-| **📍 Local Guide**          | Recognizes users who actively recommend local places and businesses           | `places_recommended`                      | ≥ X places recommended in Z weeks           |
+| **🎉 Event Planner**        | Recognizes users who organize well-attended community events                  | `events_created`, `event_participants` | ≥ **X** events with ≥ **Y** participants in **Z** weeks |
+| **💬 Conversation Starter** | For users who spark discussions that receive replies                          | `posts_created`, `replies_received`    | ≥ **X** posts with ≥ **Y** replies in **Z** weeks       |
+| **🎁 Philanthropist**       | Rewards those who regularly gift or share items via the marketplace           | `items_gifted`                            | ≥ **X** items gifted in **Z** weeks                 |
+| **🤝 Helping Hand**         | For users frequently thanked by others — a sign of helpfulness and positivity | `thankyous_received`                      | ≥ **X** thank-you messages received in **Z** weeks  |
+| **📍 Local Guide**          | Recognizes users who actively recommend local places and businesses           | `places_recommended`                      | ≥ **X** places recommended in **Z** weeks           |
 
 ## 📊 Dataset Summary
 The dataset contains aggregated engagement metrics for users of a community platform, collected over the last 4, 6, 8, and 12 weeks. The dataset contains: 
