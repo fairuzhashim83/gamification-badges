@@ -9,7 +9,7 @@ To provide data-driven insights and recommendations on the criteria to earn thes
 
 ## 🏅 Proposed Badges and Criteria
 
-| **Badge Name**              | **Description**                                                               | **Metric(s) Used**                           | **Threshold Template**                      |
+| **Badge Name**              | **Description**                                                               | **Metric(s) Used**                           | **Recommendation Criteria**                      |
 | --------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 | **🎉 Event Planner**        | Recognizes users who organize well-attended community events                  | `events_created`, `event_participants` | ≥ **X** events with ≥ **Y** participants in **Z** weeks |
 | **💬 Conversation Starter** | For users who spark discussions that receive replies                          | `posts_created`, `replies_received`    | ≥ **X** posts with ≥ **Y** replies in **Z** weeks       |
