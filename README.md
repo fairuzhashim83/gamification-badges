@@ -16,3 +16,18 @@ To provide data-driven insights and recommendations on the criteria to earn thes
 | **🎁 Philanthropist**       | Rewards those who regularly gift or share items via the marketplace           | `items_gifted`                            | ≥ X items gifted in Z weeks                 |
 | **🤝 Helping Hand**         | For users frequently thanked by others — a sign of helpfulness and positivity | `thankyous_received`                      | ≥ X thank-you messages received in Z weeks  |
 | **📍 Local Guide**          | Recognizes users who actively recommend local places and businesses           | `places_recommended`                      | ≥ X places recommended in Z weeks           |
+
+## 📊 Dataset Summary
+The dataset contains aggregated engagement metrics for users of a community platform, collected over the last 4, 6, 8, and 12 weeks. The dataset contains: 
+
+| Column Name          | Description                                        |
+| -------------------- | -------------------------------------------------- |
+| `USER_ID`            | Unique user identifier                             |
+| `LAST_X_WEEKS`       | Rolling timeframe for metric aggregation           |
+| `POSTS_CREATED`      | Average posts created per week                     |
+| `REPLIES_RECEIVED`   | Average replies received per week                  |
+| `THANKYOUS_RECEIVED` | Average thank-you notes received per week          |
+| `EVENTS_CREATED`     | Average events created per week                    |
+| `EVENT_PARTICIPANTS` | Average participants per week across user's events |
+| `ITEMS_GIFTED`       | Average items shared/gifted per week               |
+| `PLACES_RECOMMENDED` | Average places recommended per week                |
